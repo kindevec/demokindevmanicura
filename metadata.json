@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Rose - Estudio de Uñas & Beauty",
+  "description": "Landing page de alta conversión para salón de uñas elegante con paleta pastel nude, reservas en línea, galería con lightbox, servicios y testimonios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
